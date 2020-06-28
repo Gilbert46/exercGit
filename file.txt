@@ -1,2 +1,8 @@
+
 This is the file modificed
 on the master branch
+
+Other time I've modified
+the text file 
+in the master branch
+
