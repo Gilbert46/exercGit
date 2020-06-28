@@ -1,1 +1,2 @@
-This is a new file for text
+This is the file modified 
+in the first branch
